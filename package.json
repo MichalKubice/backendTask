@@ -19,7 +19,7 @@
     "mongoose": "^5.8.9",
     "ts-node": "^8.6.2",
     "typescript": "^3.7.5",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.2",
